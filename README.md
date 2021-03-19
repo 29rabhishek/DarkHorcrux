@@ -2,7 +2,8 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning GAN
 - 💞️ I’m looking to collaborate on GAN
-- 📫 How to reach me through email 
+- 📫 How to reach me  
+      email 29rabhishek@gmail.com
 
 <!---
 DarkHorcrux/DarkHorcrux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
