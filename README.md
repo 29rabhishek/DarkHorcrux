@@ -6,6 +6,7 @@
       email 29rabhishek@gmail.com
 
 https://www.linkedin.com/in/29rabhishek/
+![](./assets/linkedin.svg)
 
 <!---
 DarkHorcrux/DarkHorcrux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
