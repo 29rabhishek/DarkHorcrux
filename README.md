@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Abhishek
 - 👀 I’m interested in AI
 - 🌱 I’m currently working on GAN
-- 💞️ I’m looking to collaborate on GAN
 - 📫 How to reach me  
       email 29rabhishek@gmail.com
 
-[](https://www.linkedin.com/in/29rabhishek/)
+https://www.linkedin.com/in/29rabhishek/
 
 
 <!---
